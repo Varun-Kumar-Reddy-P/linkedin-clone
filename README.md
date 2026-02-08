@@ -13,6 +13,9 @@ and visual structure.
 - HTML5
 - CSS3
 
+## Live Demo
+🔗 https://varun-kumar-reddy-p.github.io/linkedin-clone/
+
 ## Preview
 ![LinkedIn Clone]( linkedin-ui.png)
 
