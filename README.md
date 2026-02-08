@@ -14,7 +14,7 @@ and visual structure.
 - CSS3
 
 ## Preview
-![LinkedIn Clone]( https://varun-kumar-reddy-p.github.io/linkedin-clone/)
+![LinkedIn Clone]( linkedin-ui.png)
 
 ## Purpose
 This project was created to practice frontend development
