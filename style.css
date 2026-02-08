@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1 {
+    font-weight: bolder;
+}
+
+.h2 {
+    font-weight: lighter;
+}
+
+.container {
+    max-width: 1180px;
+    margin-inline: auto;
+    padding-inline: var(--padding-inline-section);
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.font {
+    font-family: "Source Sans 3", sans-serif;
+}
+
+.logo {
+    margin-block: 20px;
+    color: rgb(84, 84, 223);
+    font-weight: bold;
+}
+
+.main-content {
+    padding: 40px;
+    background-color: rgb(243, 250, 253);
+}
+
+.header {
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.header-left {
+    max-width: 500px;
+    margin: 30px;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+
+.access {
+    margin-bottom: 50px;
+}
+
+.stores {
+    justify-content: space-between;
+}
+
+.store {
+    flex-direction: column;
+    gap: 8px;
+}
+
+.store img {
+    margin-top: 12px;
+}
+
+
+
+
+
+.foots ul {
+    list-style: none;
+    text-align: center;
+    margin-block: 15px;
+    font-size: small;
+    
+}
+
+.foots ul li a {
+    color: rgb(149, 134, 134);
+}
+
+ul li a span {
+    color: rgb(84, 84, 223);
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.paths {
+    justify-content: center;
+    gap: 23px;
+}
+
